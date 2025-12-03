@@ -1,6 +1,6 @@
 # VoxelGenesis: Evolutionary Ecosystem Simulator
 
-**VoxelCGenesis** is a browser-based, 3D interactive sandbox that simulates a living, breathing ecosystem. Built with React and Three.js, it places you in the role of a deity, allowing you to sculpt terrain, control the climate, and nurture the evolution of life from simple organisms to complex mammals.
+**VoxelGenesis** is a browser-based, 3D interactive sandbox that simulates a living, breathing ecosystem. Built with React and Three.js, it places you in the role of a deity, allowing you to sculpt terrain, control the climate, and nurture the evolution of life from simple organisms to complex mammals.
 
 The simulation runs a complex logic loop featuring cyclical seasons, metabolic energy systems, and dynamic population genetics.
 <img width="1000" height="500" alt="Screenshot 2025-12-03 210851" src="https://github.com/user-attachments/assets/edbd79e1-3f5f-4cfa-b5f8-58ed9310da1c" />
