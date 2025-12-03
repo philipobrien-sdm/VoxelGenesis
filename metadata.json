@@ -1,0 +1,5 @@
+{
+  "name": "VoxelGenesis",
+  "description": "An evolutionary ecosystem simulator where you shape terrain, control weather, and nurture life from simple organisms to complex species.",
+  "requestFramePermissions": []
+}
